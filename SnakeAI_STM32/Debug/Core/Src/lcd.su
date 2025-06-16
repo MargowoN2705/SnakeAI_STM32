@@ -1,0 +1,14 @@
+../Core/Src/lcd.c:50:13:lcd_cmd	16	static
+../Core/Src/lcd.c:57:13:lcd_data	16	static
+../Core/Src/lcd.c:66:13:lcd_send	16	static
+../Core/Src/lcd.c:75:13:lcd_data16	16	static
+../Core/Src/lcd.c:85:13:lcd_set_window	24	static
+../Core/Src/lcd.c:119:6:lcd_init	16	static
+../Core/Src/lcd.c:141:6:lcd_draw_image	24	static
+../Core/Src/lcd.c:152:6:lcd_default	24	static
+../Core/Src/lcd.c:163:6:lcd_put_pixel	24	static
+../Core/Src/lcd.c:168:6:lcd_clear_screen	24	static
+../Core/Src/lcd.c:177:6:lcd_copy	16	static
+../Core/Src/lcd.c:198:6:lcd_fill_rect	32	static
+../Core/Src/lcd.c:209:6:lcd_draw_char	40	static
+../Core/Src/lcd.c:224:6:lcd_draw_text	32	static

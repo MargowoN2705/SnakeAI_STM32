@@ -1,0 +1,10 @@
+../Core/Src/Snake_Game.c:19:6:gameInit	16	static
+../Core/Src/Snake_Game.c:38:6:place_food	16	static
+../Core/Src/Snake_Game.c:54:6:is_collision	24	static
+../Core/Src/Snake_Game.c:65:6:is_Food_Eaten	4	static
+../Core/Src/Snake_Game.c:69:6:update_Snake	24	static
+../Core/Src/Snake_Game.c:99:5:change_Direction	32	static
+../Core/Src/Snake_Game.c:126:6:get_state	64	static
+../Core/Src/Snake_Game.c:173:6:draw_game	48	static
+../Core/Src/Snake_Game.c:199:6:get_action	72	static
+../Core/Src/Snake_Game.c:218:6:playGame	32	static

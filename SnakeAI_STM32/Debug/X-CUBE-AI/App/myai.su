@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/myai.c:251:9:myai_configure_activations	16	static
+../X-CUBE-AI/App/myai.c:278:9:myai_configure_weights	16	static
+../X-CUBE-AI/App/myai.c:311:9:ai_myai_get_info	160	static
+../X-CUBE-AI/App/myai.c:358:9:ai_myai_get_report	160	static
+../X-CUBE-AI/App/myai.c:405:10:ai_myai_get_error	16	static
+../X-CUBE-AI/App/myai.c:412:10:ai_myai_create	24	static
+../X-CUBE-AI/App/myai.c:423:10:ai_myai_create_and_init	88	static
+../X-CUBE-AI/App/myai.c:458:12:ai_myai_inputs_get	16	static
+../X-CUBE-AI/App/myai.c:469:12:ai_myai_outputs_get	16	static
+../X-CUBE-AI/App/myai.c:480:11:ai_myai_destroy	16	static
+../X-CUBE-AI/App/myai.c:487:9:ai_myai_init	24	static
+../X-CUBE-AI/App/myai.c:504:8:ai_myai_run	24	static
+../X-CUBE-AI/App/myai.c:512:8:ai_myai_forward	16	static
